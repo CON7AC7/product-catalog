@@ -11,12 +11,14 @@ const productCatalog = [
     name: "Illustrazione Cane",
     price: 25,
     quantity: 5,
+    imageUrl: "Assets/abc2.jpg",
   },
   {
     id: 3,
     name: "illustrazione Volpe",
     price: 35,
     quantity: 7,
+    imageUrl: "Assets/abc3.jpg",
   },
 ];
 
